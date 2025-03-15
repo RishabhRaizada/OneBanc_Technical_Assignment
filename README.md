@@ -5,16 +5,16 @@ This repository contains the code for the iOS restaurant ordering app as part of
 ## Screenshots
 
 ### Cart Screen
-![Cart](assets/Cart.png)
+![Cart](Assets/Cart.png)
 
 ### Checkout Screen
-![Checkout](assets/Checkout.png)
+![Checkout](Assets/Checkout.png)
 
 ### Home Page
-![Home Page](assets/HomePage.png)
+![Home Page](Assets/HomePage.png)
 
 ### Menu Screen
-![Menu](assets/Menu.png)
+![Menu](Assets/Menu.png)
 
 ## Setup Instructions
 
